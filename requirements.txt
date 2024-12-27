@@ -1,0 +1,33 @@
+unstructured-inference==0.8.1
+unstructured.pytesseract==0.3.13
+unstructured==0.16.8
+langchain==0.3.9
+langchain-community==0.3.8
+langchain-openai==0.2.10
+langchain-azure-dynamic-sessions==0.2.0
+#azure==5.0.0
+azure-core==1.32.0
+azure-ai-evaluation==1.0.1
+azure-ai-generative==1.0.0b11
+azure-ai-inference==1.0.0b6
+azure-ai-projects==1.0.0b1
+azure-ai-resources==1.0.0b8
+azure-appconfiguration==1.7.1
+azure-search-documents==11.4.0
+azure-eventhub-checkpointstoreblob==1.1.4
+azure-mixedreality-remoterendering==1.0.0b2
+azure-ai-language-conversations==1.1.0
+azure-core==1.32.0
+corehttp==1.0.0b5
+azure-ai-documentintelligence==1.0.0b4
+azure-identity==1.19.0
+pi-heif==0.21.0
+#"python-doctor[torch,viz,html,contrib]"
+onnx==1.16.1
+azure-ai-vision-imageanalysis==1.0.0
+uvicorn
+pytesseract
+fastapi 
+#embeddings
+# sentence-transformers
+# chromadb
